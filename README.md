@@ -1,4 +1,5 @@
-# TA Lite – A Modular AI Teaching Assistant for Guided Learning
+# TALIA: Teaching Assistant Lite Intelligent Agent
+# – A Modular AI Teaching Assistant for Guided Learning
 
 ---
 
